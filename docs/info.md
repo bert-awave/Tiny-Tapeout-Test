@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Accepts 8 input bits, does some logic, and drives a 7-segment display.
 
 ## How to test
 
-Explain how to use your project
+For inputs: need 8 power/ground switches, a clock, and a reset signal.  Need a 7-segment display on the output.
 
 ## External hardware
 
